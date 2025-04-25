@@ -1,9 +1,7 @@
 # project-buddy-frontend
 ## Team: The Singleton
 
-Okay, here is the detailed documentation for the project formatted using Markdown, suitable for a GitHub README.md file.
-
-Retro Buddy Dashboard 📊🤝💰
+Project Buddy Dashboard 📊🤝💰
 Supercharge your team's performance, retrospectives, and morale with a unified view of key project metrics and peer recognition.
 
 (As of: April 2025)
