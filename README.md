@@ -4,11 +4,8 @@
 Project Buddy Dashboard 📊🤝💰
 Supercharge your team's performance, retrospectives, and morale with a unified view of key project metrics and peer recognition.
 
-(As of: April 2025)
 
 Retro Buddy Dashboard is a web application designed to provide project teams with a centralized, insightful overview of their sprint performance, work distribution, meeting costs, and team appreciation. It replaces scattered data points and manual tracking with automated visualizations and integrated tools, fostering data-driven decisions, transparency, and a positive team culture.
-
-(Suggestion: Replace the line above with an actual screenshot link once deployed or available)
 
 The Problem It Solves 🤔
 Modern project teams often struggle with:
@@ -136,10 +133,3 @@ Persistence for Kudos data via the backend.
 Advanced analytics (e.g., trend prediction, correlation analysis).
 Customizable Insight rules.
 Gamification for Kudos (leaderboards, badges).
-Contributing
-(Contributions are welcome! Please follow standard Fork & Pull Request workflows. Lint your code and ensure tests pass - if applicable.)
-
-(Replace the above with your actual contribution guidelines.)
-
-License
-(Specify your project's license here, e.g., MIT License)
