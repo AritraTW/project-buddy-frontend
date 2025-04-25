@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: README.md
+  checksum: d0f6079035c2cac01eb1f256e20354bbef99b10a17828139e1606a93c22702ca
 - filename: package-lock.json
   checksum: c7e07c863f3b969fd26e5450a36bc33334cff5596421dcfa3bb50d66d8a8d453
 - filename: public/vite.svg
